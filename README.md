@@ -1,5 +1,8 @@
 # Svelte template with Tailwind CSS
 
+Fork from https://github.com/jhanca-vm/Svelte-Tailwind
+update tailwind to 1.6
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/199px-Svelte_Logo.svg.png) ![](https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png)
 
 This template has PurgeCSS and cssnano integrated.
